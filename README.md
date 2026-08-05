@@ -292,3 +292,6 @@ TrafficBrain
 
 
 Alhough most of the project was done for a Greek science fair, the content of the presentations uploaded is translated to this README file, using the help of an LLM (ChatGPT).
+
+
+The specific project won the Smart City Award in the Greek National fair: Anatolia College Science and Technology Annual Conference.
